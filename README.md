@@ -71,6 +71,7 @@ the upper left. In the lower left, select your new custom version, and hit the b
 
 * Hexeption
 * kingdevnl
+* Cider
 
 #### Special thanks to: **MinecraftForge** Team who made this tool possible. ❤
 
